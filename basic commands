@@ -1,0 +1,3 @@
+git remote add origin https://github.com/SrinivasNaik19/basic_commands.git
+git branch -M main
+git push -u origin main
